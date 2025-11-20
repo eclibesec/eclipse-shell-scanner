@@ -9,10 +9,6 @@ A lightweight yet powerful PHP-based malware scanner designed to clean up your s
 *   **Smart Scanning**: Uses heuristic methods to detect suspicious code patterns (eval, base64, obfuscated code, etc.).
 *   **Live Action**: Found a dangerous file? You can **View**, **Edit**, or **Delete** it right there. No need to open your cPanel File Manager.
 *   **Flexible Navigation**: Move around directories easily. Want to scan a specific folder or the root directory? Just type the path or use the navigation controls.
-*   **Smooth UI**:
-    *   Powered by AJAX, so deleting files or going back doesn't trigger annoying page reloads.
-    *   Alerts and confirmations use a cool custom modal (Glassmorphism), not the boring default browser alerts.
-    *   Real-time progress bar.
 
 ## How to Use
 
